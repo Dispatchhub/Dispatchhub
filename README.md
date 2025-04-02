@@ -28,7 +28,7 @@ We are committed to revolutionizing the logistics industry in Nigeria by making 
 ## 💌 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/company/dispatchhub/?viewAsMember=true" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-DivineOgbonda-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-DispatchHub-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
   <a href="mailto:contact@dispatchhub.org" target="_blank">
     <img src="https://img.shields.io/badge/Email-contact@dispatchhub.org-red?style=for-the-badge&logo=gmail" alt="Email">
