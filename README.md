@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Divine Ogbonda</h1>
-<h3 align="center">A Data Engineer & Business Analyst | Founder & CEO of Dispatch Hub</h3>
+<h1 align="center">🚀 Welcome to Dispatch Hub</h1>
+<h3 align="center">Optimizing Last-Mile Delivery for E-Commerce in Nigeria</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/company/dispatchhub/?viewAsMember=true" target="_blank">
@@ -11,13 +11,6 @@
 </p>
 
 ---
-
-## 🔥 About Me
-- 🎼 **CEO & Founder** of [Dispatch Hub](https://dispatchhub.org)
-- 🚀 Experienced in **Data Engineering, SQL, Python, NLP & Machine Learning**
-- 📊 Passionate about **Business Analysis, ETL Pipelines, and Data Warehousing**
-- 🌍 Building scalable logistics solutions for e-commerce in Nigeria
-- 💌 Reach me at **contact@dispatchhub.org** or **[LinkedIn](https://www.linkedin.com/company/dispatchhub/?viewAsMember=true)**
 
 ---
 
