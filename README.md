@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/company/dispatchhub/?viewAsMember=true" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-DivineOgbonda-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-DispatchHub-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
   </a>
   <a href="mailto:contact@dispatchhub.org" target="_blank">
     <img src="https://img.shields.io/badge/Email-contact@dispatchhub.org-red?style=flat-square&logo=gmail" alt="Email">
